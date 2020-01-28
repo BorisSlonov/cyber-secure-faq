@@ -436,6 +436,7 @@ button {
   margin-right: 10px;
   -webkit-transition: all .5s;
   transition: all .5s;
+  font-size: 0.8rem;
 }
 
 .header-btn-group .signUp:hover {
@@ -453,6 +454,7 @@ button {
   text-align: center;
   -webkit-transition: all .5s;
   transition: all .5s;
+  font-size: 0.8rem;
 }
 
 .header-btn-group .signIn:hover {
